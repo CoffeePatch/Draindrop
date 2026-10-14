@@ -1,4 +1,4 @@
-# 💧 BrainDrop
+# 💧 DrainDrop
 
 **BrainDrop** is an intelligent, scalable personal bookmark automation and maintenance tool for [Raindrop.io](https://raindrop.io).
 
